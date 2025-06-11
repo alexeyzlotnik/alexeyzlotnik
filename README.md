@@ -56,6 +56,12 @@
   <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 </p>
 
+#### Learning
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+</p>
+
 ## Let's Connect! 🌐
 <p>
   <a href="https://linkedin.com/in/alexeyzlotnik" target="_blank">
